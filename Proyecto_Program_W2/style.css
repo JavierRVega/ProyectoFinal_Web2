@@ -1,0 +1,157 @@
+div#header{
+	background-color: white;
+	width: auto; 
+	height: 165px;
+	margin: -8px;
+    position: fixed;
+    padding-right: 10000px;
+}
+
+div#logo{
+	background-color: white;
+	width: 240px;
+	height: 130px;
+	margin: 10px 0px 0px 120px;  
+    padding: 10px;
+}
+
+a:link{
+	color: white;
+	font-size: larger;
+}
+
+a:hover{
+	font-size:24px
+}
+
+div#tarea1{
+	background-color: rgb(27, 26, 94);
+	width: 80px;
+	height: 0px;
+	margin: -195px 0px 0px 450px;  
+    padding: 100px 35px;
+}
+
+div#TAREA5{
+	background-color: rgb(27, 26, 94);
+	width: 80px;
+	height: 10px;
+	margin: -195px 0px 0px 630px;  
+    padding: 93px 35px;
+}
+
+div#TAREA6{
+	background-color: rgb(27, 26, 94);
+	width: 80px;
+	height: 10px;
+	margin: -200px 0px 0px 810px;  
+    padding: 95px 35px;
+}
+
+div#TAREA7{
+	background-color: rgb(27, 26, 94);
+	width: 80px;
+	height: 10px;
+	margin: -200px 0px 0px 990px;  
+    padding: 95px 35px;
+}
+
+div#princip{
+	background-color: blue;
+    
+	width: auto; 
+	height: 1030px;
+	margin: -8px;
+}
+
+div#texto1{
+	width: auto;
+	height: 980px;
+	margin-top: -980px;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+div#texto5 {
+	width: auto;
+	height: 300px;
+	margin-top: -350px;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+div#texto6 {
+	width: auto;
+	height: 300px;
+	margin-top:-350px;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+div#texto7 {
+	width: auto;
+	height: 300px;
+	margin-top: -400px;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+div#boton{
+	margin: 50px;
+}
+
+
+div#princip1 {
+	background-color: red;
+	background-image: url(../Proyecto_Program_W2/imag/fondo2_tarea1.png);
+	width: auto;
+	height: 1200px;
+	margin: -8px;
+}
+
+div#princip6 {
+	background-color: red;
+	background-image: url(../Proyecto_Program_W2/imag/fondo62.png);
+	width: auto;
+	height: 600px;
+	margin: -8px;
+}
+
+div#princip5 {
+	background-color: red;
+	background-image: url(../Proyecto_Program_W2/imag/fondo52_1.png);
+	width: auto;
+	height: 600px;
+	margin: -8px;
+}
+
+div#princip7 {
+	background-color: red;
+	background-image: url(../Proyecto_Program_W2/imag/fondo7.png);
+	width: auto;
+	height: 700px;
+	margin: -8px;
+}
+
+div#imta1{
+	
+	width: 450px;
+	height: 400px;
+	background-color: white;
+	margin-left:200px;
+	
+}
+
+div#texto{
+    background-color: rgb(55, 216, 221);
+    text-shadow: 3px  3px 3px black,
+                 3px  3px 3px black,
+                -3px  3px 3px black,
+                 3px -3px 3px black;
+    width: 500px;
+	height: 250px;
+    padding: 100px;
+    margin-top: -850px;
+    margin-left: 420px;
+}
+
