@@ -32,6 +32,22 @@ div#tarea1{
     padding: 100px 35px;
 }
 
+div#princip1 {
+	background-color: red;
+	background-image: url(imag/fondo2_tarea1.png);
+	width: auto;
+	height: 1200px;
+	margin: -8px;
+}
+
+div#texto1 {
+	width: auto;
+	height: 980px;
+	margin-top: -980px;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
 div#TAREA5{
 	background-color: rgb(27, 26, 94);
 	width: 80px;
@@ -40,36 +56,12 @@ div#TAREA5{
     padding: 93px 35px;
 }
 
-div#TAREA6{
-	background-color: rgb(27, 26, 94);
-	width: 80px;
-	height: 10px;
-	margin: -200px 0px 0px 810px;  
-    padding: 95px 35px;
-}
-
-div#TAREA7{
-	background-color: rgb(27, 26, 94);
-	width: 80px;
-	height: 10px;
-	margin: -200px 0px 0px 990px;  
-    padding: 95px 35px;
-}
-
-div#princip{
-	background-color: blue;
-    
-	width: auto; 
-	height: 1030px;
-	margin: -8px;
-}
-
-div#texto1{
+div#princip5 {
+	background-color: red;
+	background-image: url(imag/fondo52_1.png);
 	width: auto;
-	height: 980px;
-	margin-top: -980px;
-	margin-left: 70px;
-	margin-right: 70px;
+	height: 600px;
+	margin: -8px;
 }
 
 div#texto5 {
@@ -80,12 +72,44 @@ div#texto5 {
 	margin-right: 70px;
 }
 
+div#TAREA6{
+	background-color: rgb(27, 26, 94);
+	width: 80px;
+	height: 10px;
+	margin: -200px 0px 0px 810px;  
+    padding: 95px 35px;
+}
+
+div#princip6 {
+	background-color: red;
+	background-image: url(imag/fondo62.png);
+	width: auto;
+	height: 600px;
+	margin: -8px;
+}
+
 div#texto6 {
 	width: auto;
 	height: 300px;
-	margin-top:-350px;
+	margin-top: -350px;
 	margin-left: 70px;
 	margin-right: 70px;
+}
+
+div#TAREA7{
+	background-color: rgb(27, 26, 94);
+	width: 80px;
+	height: 10px;
+	margin: -200px 0px 0px 990px;  
+    padding: 95px 35px;
+}
+
+div#princip7 {
+	background-color: red;
+	background-image: url(imag/fondo7.png);
+	width: auto;
+	height: 700px;
+	margin: -8px;
 }
 
 div#texto7 {
@@ -96,62 +120,31 @@ div#texto7 {
 	margin-right: 70px;
 }
 
+div#princip{
+	background-color: blue;
+    
+	width: auto; 
+	height: 1030px;
+	margin: -8px;
+}
+
+div#texto {
+	background-color: rgb(55, 216, 221);
+	text-shadow: 3px 3px 3px black, 3px 3px 3px black, -3px 3px 3px black, 3px -3px 3px black;
+	width: 500px;
+	height: 250px;
+	padding: 100px;
+	margin-top: -850px;
+	margin-left: 420px;
+}
+
 div#boton{
 	margin: 50px;
 }
 
-
-div#princip1 {
-	background-color: red;
-	background-image: url(../Proyecto_Program_W2/imag/fondo2_tarea1.png);
-	width: auto;
-	height: 1200px;
-	margin: -8px;
-}
-
-div#princip6 {
-	background-color: red;
-	background-image: url(../Proyecto_Program_W2/imag/fondo62.png);
-	width: auto;
-	height: 600px;
-	margin: -8px;
-}
-
-div#princip5 {
-	background-color: red;
-	background-image: url(../Proyecto_Program_W2/imag/fondo52_1.png);
-	width: auto;
-	height: 600px;
-	margin: -8px;
-}
-
-div#princip7 {
-	background-color: red;
-	background-image: url(../Proyecto_Program_W2/imag/fondo7.png);
-	width: auto;
-	height: 700px;
-	margin: -8px;
-}
-
 div#imta1{
-	
 	width: 450px;
 	height: 400px;
 	background-color: white;
 	margin-left:200px;
-	
 }
-
-div#texto{
-    background-color: rgb(55, 216, 221);
-    text-shadow: 3px  3px 3px black,
-                 3px  3px 3px black,
-                -3px  3px 3px black,
-                 3px -3px 3px black;
-    width: 500px;
-	height: 250px;
-    padding: 100px;
-    margin-top: -850px;
-    margin-left: 420px;
-}
-
